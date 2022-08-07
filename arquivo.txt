@@ -1,0 +1,14 @@
+# aluno: Matheus Klering Sima
+3
+I 
+43, 3, 2
+43, 45
+D
+10, 15, 16
+20, 15, 79
+C 
+3, 43, 66
+7, 8
+Interseção: conjunto 1 {43,3,2}, conjunto 2 {43,45}. Resultado: {43}
+Diferença: conjunto 1 {10,15,16}, conjunto 2 {20,15,79}. Resultado: {10,16}
+Produto Cartesiano: conjunto 1 {3,43, 66}, conjunto 2 {7,8}. Resultado: {(7,3);(7,43);(7,66);(8,3);(8,43);(8,66)}
